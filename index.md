@@ -64,7 +64,7 @@ Similar song 1 with cosine similarity of 0.7367 (mix, separated accompaniment, m
     <source src='./5349014_accompaniment.wav'>
 </audio>
 <audio controls>
-    <source src='./everybreath_5349014_mix.wav'>
+    <source src='./everybreath_5349014_mix.mp3'>
 </audio>
 
 A different arrangement of the query song with cosine similarity of 0.5224 (mix, separated accompaniment, mix with the query vocal)
@@ -76,7 +76,7 @@ A different arrangement of the query song with cosine similarity of 0.5224 (mix,
     <source src='./169646_accompaniment.wav'>
 </audio>
 <audio controls>
-    <source src='./everybreath_169646_mix.wav'>
+    <source src='./everybreath_169646_mix.mp3'>
 </audio>
 
 ### I Love You for Sentimental Reasons (Nat King Cole)
@@ -99,7 +99,7 @@ Similar song 1 with cosine similarity of 0.3569 (mix, separated accompaniment, m
     <source src='./330766_accompaniment.wav'>
 </audio>
 <audio controls>
-    <source src='./iloveyou_330766_mix.wav'>
+    <source src='./iloveyou_330766_mix.mp3'>
 </audio>
 
 Similar song 2 with cosine similarity of 0.2916 (mix, separated accompaniment, mix with the query vocal)
@@ -111,6 +111,6 @@ Similar song 2 with cosine similarity of 0.2916 (mix, separated accompaniment, m
     <source src='./3109933_accompaniment.wav'>
 </audio>
 <audio controls>
-    <source src='./iloveyou_330766_mix.wav'>
+    <source src='./iloveyou_330766_mix.mp3'>
 </audio>
 
