@@ -2,4 +2,4 @@
 
 This is a repository for synthesis samples for a ISMIR 2021 submition.
 
-Check https://codeformusic.github.io/crossdomainembedding for the samples.
+Check https://khlukekim.github.io/crossdomainembedding for the samples.
